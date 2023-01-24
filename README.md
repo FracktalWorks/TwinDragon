@@ -27,3 +27,12 @@ the Klipper is the present repo files which are being used for Twin Dragon Idex 
 - Removing the unwanted pages
 
 - Replacing the splash images
+
+# Touch UI of the Twin dragon 
+
+The Touch UI of the Twin dragon IDex machine can be found here [Idex Touch UI](https://github.com/FracktalWorks/IdexTouchUI)
+
+# Idex Firmware 
+
+The repo of idex is found here [Idex firmware](https://github.com/FracktalWorks/IDEX-firmware)
+
