@@ -3,14 +3,17 @@ Repository for the most advanced FDM in the world!
 
 the Klipper is the present repo files which are being used for Twin Dragon Idex machine 
 
-## Features:
+# Idex SLicer :
 
-### Physical Tool Changing:
+## since from the initial clone the below are the changes 
 
-Using M998, docks the currently active tool, and takes the inactive tool.
-T<inactive tool> must follow in order to activate next tool
-
-### Nozzle Cleaning:
-in the pre extruder switch gcode, movement that extrudes and cleans the nozzle. Take the dual extruder switch retract into account
-
-
+> The UI configured according to the fracktory with dark theme
+> Adding the duplicate & slicing feature for fracktory printers with dual extruders
+> Created & Added the Twin dragon printer profile 
+> Adding nozzles to the twindragon software
+> Added the Fracktory machines in the definition ,extrudrs,variants of the resources
+> Adding the materials in the slicer software
+> Removing the crash error during the printers adding/changing
+> Working of single extruder fracktory machines by editing the bcn3dindex.py
+> Removing the unwanted pages
+> Replacing the splash images
