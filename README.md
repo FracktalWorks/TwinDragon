@@ -22,7 +22,8 @@ the Klipper is the present repo files which are being used for Twin Dragon Idex 
 - Removing the crash error during the printers adding/changing
 
 - Working of single extruder fracktory machines by editing the bcn3dindex.py
+- Removed the unwanted printer profiles
 
 - Removing the unwanted pages
 
--  Replacing the splash images
+- Replacing the splash images
