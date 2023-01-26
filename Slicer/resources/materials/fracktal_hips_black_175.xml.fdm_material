@@ -2,13 +2,13 @@
 <fdmmaterial xmlns="http://www.ultimaker.com/material" version="1.3">
     <metadata>
         <name>
-            <brand>Fracktal Works</brand>
+            <brand>Fib Reel</brand>
             <material>HIPS</material>
             <color>Black</color>
         </name>
         <GUID>a468d86a-220c-47eb-99a5-bbb47e514eb0</GUID>
         <version>7</version>
-        <color_code>#12f3e0</color_code>
+        <color_code>#000000</color_code>
     </metadata>
     <properties>
         <density>1.24</density>
